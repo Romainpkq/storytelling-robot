@@ -22,3 +22,5 @@ The generated story will be saved in "gpt-2/samples/story_final".
 You can the pretraining weights from Baidu cloud.
 link：https://pan.baidu.com/s/1eaNYTTPgLn-eLOQ_Z8fkYQ 
 password：3bta
+
+After download the weights, uncompress to the "gpt-2/models/345MChinese" directory.
