@@ -1,0 +1,8 @@
+from src.interactive_conditional_samples import interact_model
+
+raw_text = input("Please input a sequence as the start of the story")
+model_name = '345MChinese'
+top_k = 40
+temperature = 0.9
+
+interact()
